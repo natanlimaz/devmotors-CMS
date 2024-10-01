@@ -2,6 +2,7 @@
 
 ## Tecnologias utilizadas
     - Next.Js
+    - Cosmicjs ( Como CMS para gerenciar conteúdo do site )
 
 
 ## Bibliotecas Utilizadas
