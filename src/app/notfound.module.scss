@@ -1,0 +1,23 @@
+.container {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+
+.text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #121212;
+    color: #fff;
+    padding: 14px 24px;
+    border-radius: 4px;
+    font-weight: medium;
+}
